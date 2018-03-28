@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+    font-size: 20px;
+}
+
+.lectura {
+    display: block;
+    background-color: chocolate;
+    color: black;
+    font-size: 3em;
+    width: 50%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.agitado { background-color: aqua; }
+.rojo { background-color: red; }
